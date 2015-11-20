@@ -1,0 +1,3 @@
+Tests were done manually for this project.
+
+The name of the added function is "MathQuestion"
